@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeremi-Rekos
-- 👀 I’m interested in coding and gym
-- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 👀 I’m interested in Coding and Reading
+- 🌱 I’m currently learning JavaScript / React.js
 - 📫 How to reach me:
 - e-mail: rekos.jeremi@gmail.com
-- Messenger Jeremi Rękoś
+- LinkedIn Jeremi Rękoś
